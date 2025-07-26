@@ -72,4 +72,4 @@ The goal of this project is to analyze public sentiment from tweets by building 
 
 ```bash
 pip install -r requirements.txt
-python sentiment_analysis.py
+jupyter notebook CodeSentinel_Task05.ipynb
